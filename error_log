@@ -1,0 +1,50 @@
+[24-Oct-2015 10:55:40 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/midclass/public_html/e-learn/application/controllers/admin/Login.php on line 32
+[27-Oct-2015 07:29:08 Asia/Kolkata] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting ')' in /home/midclass/public_html/e-learn/application/controllers/admin/Home.php on line 215
+[27-Oct-2015 07:51:02 Asia/Kolkata] PHP Parse error:  syntax error, unexpected $end in /home/midclass/public_html/e-learn/application/controllers/admin/Home.php on line 526
+[27-Oct-2015 07:51:34 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '<' in /home/midclass/public_html/e-learn/application/models/admin/Home_model.php on line 371
+[27-Oct-2015 07:52:14 Asia/Kolkata] PHP Parse error:  syntax error, unexpected $end in /home/midclass/public_html/e-learn/application/controllers/admin/Home.php on line 526
+[27-Oct-2015 08:53:58 Asia/Kolkata] PHP Fatal error:  Call to undefined method home_model::get_course_by_id() in /home/midclass/public_html/e-learn/application/controllers/admin/Home.php on line 551
+[27-Oct-2015 08:54:08 Asia/Kolkata] PHP Fatal error:  Call to undefined method home_model::get_course_by_id() in /home/midclass/public_html/e-learn/application/controllers/admin/Home.php on line 551
+[27-Oct-2015 08:54:37 Asia/Kolkata] PHP Fatal error:  Class 'Home_model' not found in /home/midclass/public_html/e-learn/system/core/Loader.php on line 305
+[05-Nov-2015 07:38:24 Asia/Kolkata] PHP Parse error:  syntax error, unexpected $end in /home/midclass/public_html/e-learn/application/views/front/home/courses.php on line 66
+[05-Nov-2015 09:48:55 Asia/Kolkata] PHP Fatal error:  Cannot redeclare class Home in /home/midclass/public_html/e-learn/application/models/front/Homemodel.php on line 38
+[05-Nov-2015 09:48:59 Asia/Kolkata] PHP Fatal error:  Cannot redeclare class Home in /home/midclass/public_html/e-learn/application/models/front/Homemodel.php on line 38
+[05-Nov-2015 09:49:01 Asia/Kolkata] PHP Fatal error:  Cannot redeclare class Home in /home/midclass/public_html/e-learn/application/models/front/Homemodel.php on line 38
+[05-Nov-2015 09:49:15 Asia/Kolkata] PHP Fatal error:  Cannot redeclare class Home in /home/midclass/public_html/e-learn/application/models/front/Homemodel.php on line 38
+[05-Nov-2015 09:49:28 Asia/Kolkata] PHP Fatal error:  Cannot redeclare class Home in /home/midclass/public_html/e-learn/application/models/front/Homemodel.php on line 38
+[05-Nov-2015 09:49:51 Asia/Kolkata] PHP Fatal error:  Cannot redeclare class Home in /home/midclass/public_html/e-learn/application/models/front/Homemodel.php on line 38
+[05-Nov-2015 09:50:44 Asia/Kolkata] PHP Fatal error:  Cannot redeclare class Home in /home/midclass/public_html/e-learn/application/models/front/Homemodel.php on line 17
+[05-Nov-2015 09:50:47 Asia/Kolkata] PHP Fatal error:  Cannot redeclare class Home in /home/midclass/public_html/e-learn/application/models/front/Homemodel.php on line 17
+[05-Nov-2015 09:51:24 Asia/Kolkata] PHP Fatal error:  Cannot redeclare class Home in /home/midclass/public_html/e-learn/application/models/front/Homemodel.php on line 8
+[05-Nov-2015 09:51:26 Asia/Kolkata] PHP Fatal error:  Cannot redeclare class Home in /home/midclass/public_html/e-learn/application/models/front/Homemodel.php on line 8
+[05-Nov-2015 09:51:56 Asia/Kolkata] PHP Fatal error:  Cannot redeclare class Home in /home/midclass/public_html/e-learn/application/models/front/Homemodel.php on line 8
+[05-Nov-2015 09:51:59 Asia/Kolkata] PHP Fatal error:  Cannot redeclare class Home in /home/midclass/public_html/e-learn/application/models/front/Homemodel.php on line 8
+[05-Nov-2015 09:53:25 Asia/Kolkata] PHP Fatal error:  Cannot redeclare class Home in /home/midclass/public_html/e-learn/application/models/front/Homemodel.php on line 8
+[05-Nov-2015 09:53:29 Asia/Kolkata] PHP Fatal error:  Cannot redeclare class Home in /home/midclass/public_html/e-learn/application/models/front/Homemodel.php on line 8
+[05-Nov-2015 09:53:41 Asia/Kolkata] PHP Fatal error:  Call to a member function get_courses() on a non-object in /home/midclass/public_html/e-learn/application/controllers/Home.php on line 11
+[05-Nov-2015 09:53:44 Asia/Kolkata] PHP Fatal error:  Call to a member function get_courses() on a non-object in /home/midclass/public_html/e-learn/application/controllers/Home.php on line 11
+[05-Nov-2015 09:54:52 Asia/Kolkata] PHP Fatal error:  Cannot redeclare class Home in /home/midclass/public_html/e-learn/application/models/front/Homemodel.php on line 8
+[05-Nov-2015 09:54:58 Asia/Kolkata] PHP Fatal error:  Cannot redeclare class Home in /home/midclass/public_html/e-learn/application/models/front/Homemodel.php on line 17
+[05-Nov-2015 09:55:08 Asia/Kolkata] PHP Fatal error:  Cannot redeclare class Home in /home/midclass/public_html/e-learn/application/models/front/Homemodel.php on line 17
+[05-Nov-2015 09:55:34 Asia/Kolkata] PHP Fatal error:  Cannot redeclare class Home in /home/midclass/public_html/e-learn/application/models/front/Homemodel.php on line 17
+[05-Nov-2015 09:55:36 Asia/Kolkata] PHP Fatal error:  Cannot redeclare class Home in /home/midclass/public_html/e-learn/application/models/front/Homemodel.php on line 21
+[05-Nov-2015 09:55:38 Asia/Kolkata] PHP Fatal error:  Cannot redeclare class Home in /home/midclass/public_html/e-learn/application/models/front/Homemodel.php on line 21
+[05-Nov-2015 09:55:56 Asia/Kolkata] PHP Fatal error:  Cannot redeclare class Home in /home/midclass/public_html/e-learn/application/models/front/Homemodel.php on line 16
+[05-Nov-2015 10:11:58 Asia/Kolkata] PHP Parse error:  syntax error, unexpected T_IS_NOT_EQUAL, expecting ')' in /home/midclass/public_html/e-learn/application/views/front/home/courses.php on line 6
+[05-Nov-2015 10:12:01 Asia/Kolkata] PHP Parse error:  syntax error, unexpected T_IS_NOT_EQUAL, expecting ')' in /home/midclass/public_html/e-learn/application/views/front/home/courses.php on line 6
+[09-Nov-2015 09:54:02 Asia/Kolkata] PHP Fatal error:  Call to a member function get_course_by_id() on a non-object in /home/midclass/public_html/e-learn/application/controllers/Courses.php on line 10
+[09-Nov-2015 09:54:22 Asia/Kolkata] PHP Fatal error:  Call to a member function get_course_by_id() on a non-object in /home/midclass/public_html/e-learn/application/controllers/Courses.php on line 10
+[09-Nov-2015 09:57:32 Asia/Kolkata] PHP Fatal error:  Call to a member function get_course_by_id() on a non-object in /home/midclass/public_html/e-learn/application/controllers/Courses.php on line 11
+[09-Nov-2015 09:57:52 Asia/Kolkata] PHP Fatal error:  Call to a member function get_course_by_id() on a non-object in /home/midclass/public_html/e-learn/application/controllers/Courses.php on line 11
+[09-Nov-2015 10:03:59 Asia/Kolkata] PHP Fatal error:  Call to undefined function get_chapter_by_id() in /home/midclass/public_html/e-learn/application/models/front/Coursemodel.php on line 28
+[10-Nov-2015 14:39:06 Asia/Kolkata] PHP Parse error:  syntax error, unexpected $end in /home/midclass/public_html/e-learn/application/models/admin/Home_model.php on line 230
+[14-Nov-2015 09:55:59 Asia/Kolkata] PHP Parse error:  syntax error, unexpected $end in /home/midclass/public_html/e-learn/application/views/admin/listofcourses.php on line 43
+[14-Nov-2015 12:26:47 Asia/Kolkata] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting '(' in /home/midclass/public_html/e-learn/application/views/admin/addcourse.php on line 53
+[14-Nov-2015 12:26:53 Asia/Kolkata] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting '(' in /home/midclass/public_html/e-learn/application/views/admin/addcourse.php on line 53
+[14-Nov-2015 12:26:58 Asia/Kolkata] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting '(' in /home/midclass/public_html/e-learn/application/views/admin/addcourse.php on line 53
+[14-Nov-2015 12:27:19 Asia/Kolkata] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting '(' in /home/midclass/public_html/e-learn/application/views/admin/addcourse.php on line 53
+[14-Nov-2015 12:27:50 Asia/Kolkata] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting '(' in /home/midclass/public_html/e-learn/application/views/admin/addcourse.php on line 53
+[14-Nov-2015 12:28:24 Asia/Kolkata] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting '(' in /home/midclass/public_html/e-learn/application/views/admin/addcourse.php on line 53
+[14-Nov-2015 12:28:33 Asia/Kolkata] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting '(' in /home/midclass/public_html/e-learn/application/views/admin/addcourse.php on line 53
+[14-Nov-2015 12:28:41 Asia/Kolkata] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting '(' in /home/midclass/public_html/e-learn/application/views/admin/addcourse.php on line 53
+[14-Nov-2015 12:29:20 Asia/Kolkata] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting '(' in /home/midclass/public_html/e-learn/application/views/admin/addcourse.php on line 53
